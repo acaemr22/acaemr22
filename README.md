@@ -1,4 +1,11 @@
-### Hi there 👋
+## **Hi there 👋**
+
+### Recent Certificates
+
+- [Responsive Web Design Certification](https://www.freecodecamp.org/certification/fcc6bcef7c4-83b4-4ece-8d08-e5c45b9dbe10/responsive-web-design)
+- [JavaScript Algorithms and Data Structures Certification](https://www.freecodecamp.org/certification/fcc6bcef7c4-83b4-4ece-8d08-e5c45b9dbe10/javascript-algorithms-and-data-structures)
+- [Front End Development Libraries Certification
+  ](https://www.freecodecamp.org/certification/fcc6bcef7c4-83b4-4ece-8d08-e5c45b9dbe10/front-end-development-libraries)
 
 <!--
 **acaemr22/acaemr22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
