@@ -289,7 +289,7 @@
 ### :fire: My Stats :
 ![Emre's GitHub stats](https://github-readme-stats.vercel.app/api?username=acaemr22&show_icons=true&theme=radical)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=acaemr22&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=acaemr22&theme=dark)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acaemr22)](https://github.com/anuraghazra/github-readme-stats)
 
