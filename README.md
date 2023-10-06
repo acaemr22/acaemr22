@@ -12,7 +12,7 @@
 </span>
 
 - 🔭 I’m currently working on **typer** 
-- 🌱 I’m currently learning **Backend, C** 
+- 🌱 I’m currently learning **Backend, Solidity and Web3** 
 - 💬 Ask me about **React, JavaScript**
 
 <br />
