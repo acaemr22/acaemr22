@@ -11,7 +11,7 @@
   <br />
 </span>
 
-- 🔭 I’m currently working on **cybersecurity** 
+- 🔭 I’m currently working on **blue-chat** 
 - 🌱 I’m currently learning **cybersecurity** 
 - 💬 Ask me about **React, JavaScript, Blockchain**
 
