@@ -242,7 +242,11 @@
       height="40"
     />
   </a>
-  <!-- <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=solidity" />
+  </a>
+</p>  <!-- <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
         <img
         src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg"
         alt="tensorflow"
