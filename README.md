@@ -11,8 +11,8 @@
   <br />
 </span>
 
-- 🔭 I’m currently working on **blue-chat** 
-- 🌱 I’m currently learning **cybersecurity** 
+<!-- - 🔭 I’m currently working on **blue-chat** -->
+- 🌱 I’m currently learning **Machine Learning** 
 - 💬 Ask me about **React, JavaScript, Blockchain**
 
 <br />
