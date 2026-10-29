@@ -12,7 +12,7 @@
 </span>
 
 <!-- - 🔭 I’m currently working on **blue-chat** -->
-- 🌱 I’m currently learning **Machine Learning** 
+- 🌱 I’m currently working on **Machine Learning** 
 - 💬 Ask me about **React, JavaScript, Blockchain**
 
 <br />
