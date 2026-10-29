@@ -279,7 +279,6 @@
 <hr />
 
 ### :fire: My Stats :
-![Emre's GitHub stats](https://github-stats-extended.vercel.app/api?username=acaemr22&show_icons=true&theme=radical)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=acaemr22)](https://git.io/streak-stats)
 
